@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>hello</name>
+    </assembly>
+    <members>
+        <member name="T:przyklad.KomentarzeIMain">
+            <summary>
+            Opis tego programu 
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,18 @@
+﻿@model MvcApplication1.Models.Widok
+@{
+    ViewBag.Title = "Widok";
+}
+
+<h2>Widok</h2>
+@using (Html.BeginForm())
+{
+@Html.Label("Podaj dane");<br />
+@Html.TextBoxFor(model => model.Dane1);<br />
+@Html.TextBoxFor(model => model.Dane2);<br />
+
+    
+     <button type="submit">Wyslij</button>
+}
+    
+       
+

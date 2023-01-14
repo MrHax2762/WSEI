@@ -1,0 +1,11 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/a10/">
+    <file relUrl="WebForm1.aspx" publishTime="05/22/2012 19:46:16" />
+    <file relUrl="bin/MasterPages.pdb" publishTime="05/26/2012 10:26:16" />
+    <file relUrl="bin/MasterPages.dll" publishTime="05/26/2012 10:26:16" />
+    <file relUrl="Site1.Master" publishTime="01/04/2014 14:54:32" />
+    <file relUrl="WebForm2.aspx" publishTime="05/22/2012 19:46:16" />
+    <file relUrl="WebForm2Sub1.aspx" publishTime="05/22/2012 19:57:07" />
+    <file relUrl="Web.config" publishTime="05/22/2012 19:42:11" />
+  </publishTarget>
+</publishData>

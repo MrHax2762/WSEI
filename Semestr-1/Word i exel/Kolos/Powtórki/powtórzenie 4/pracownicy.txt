@@ -1,0 +1,77 @@
+NAZWISKO;PùEè;ZATRUDNIENIE;STAΩ;FUNKCJA;KATEDRA;ZAKùAD;URODZENIE;WIEK;TYTUù;STANOWISKO;SAMODZIELNY;DZIENNE;ZAOCZNE;PENSUM;PODSTAWA;WYSùUGA;FUNKCYJNY;NADGODZINY;BRUTTO;NETTO
+G¢rski;M;1998-02-27;10;;Katedra_A;Zakàad_3;12/10/1962;46;dr;adiunkt;NS;240;72;240; 3 600,00 zà ; 360,00 zà ; -   zà ; 302,40 zà ; 4 262,40 zà ; 3 409,92 zà 
+Roszak;M;2003-02-03;5;;Katedra_B;Zakàad_4;26/06/1969;39;dr;adiunkt;NS;257;120;240; 3 600,00 zà ; 180,00 zà ; -   zà ; 563,50 zà ; 4 343,50 zà ; 3 474,80 zà 
+Cebula;M;1979-02-05;29;;Katedra_B;Zakàad_5;06/10/1949;59;dr;adiunkt;NS;252;45;240; 3 600,00 zà ; 720,00 zà ; -   zà ; 231,00 zà ; 4 551,00 zà ; 3 640,80 zà 
+Terlecki;M;2004-02-25;4;;Katedra_A;Zakàad_1;22/05/1979;29;mgr inæ.;asystent;NS;264;0;240; 1 800,00 zà ; 72,00 zà ; -   zà ; 64,00 zà ; 1 936,00 zà ; 1 548,80 zà 
+Wojtkowski;M;2001-02-11;7;;Katedra_D;Zakàad_8;08/11/1971;37;dr;st. wykàadowca;NS;364;0;360; 3 600,00 zà ; 252,00 zà ; -   zà ; 14,00 zà ; 3 866,00 zà ; 3 092,80 zà 
+R©bek;M;2000-09-22;8;Kierownik Katedry;Katedra_B;Zakàad_4;09/08/1953;55;prof. dr hab.;profesor;S;114;0;180; 7 200,00 zà ; 576,00 zà ; 2 160,00 zà ; -   zà ; 9 936,00 zà ; 7 948,80 zà 
+Sàawecki;M;2000-02-02;8;;Katedra_A;Zakàad_3;16/03/1968;40;dr;adiunkt;NS;279;90;240; 3 600,00 zà ; 288,00 zà ; -   zà ; 514,50 zà ; 4 402,50 zà ; 3 522,00 zà 
+Deptuàa;M;2001-09-13;7;;Katedra_A;Zakàad_2;28/07/1970;38;dr;adiunkt;NS;270;45;240; 3 600,00 zà ; 252,00 zà ; -   zà ; 294,00 zà ; 4 146,00 zà ; 3 316,80 zà 
+Szczerba;M;2003-02-04;5;Kierownik Zakàadu;Katedra_B;Zakàad_4;17/01/1976;32;dr;adiunkt;NS;163;72;240; 3 600,00 zà ; 180,00 zà ; 720,00 zà ; -   zà ; 4 500,00 zà ; 3 600,00 zà 
+Karski;M;2000-09-19;8;;Katedra_A;Zakàad_1;07/01/1968;40;dr;adiunkt;NS;282;45;240; 3 600,00 zà ; 288,00 zà ; -   zà ; 336,00 zà ; 4 224,00 zà ; 3 379,20 zà 
+Rusiecki;M;1999-09-14;9;;Katedra_C;Zakàad_7;07/10/1971;37;dr;adiunkt;NS;269;60;240; 3 600,00 zà ; 324,00 zà ; -   zà ; 353,50 zà ; 4 277,50 zà ; 3 422,00 zà 
+Pisalski;M;1979-02-12;29;Kierownik Katedry;Katedra_C;Zakàad_6;21/01/1953;55;dr hab.;prof. nadzw.;S;171;0;210; 6 000,00 zà ; 1 200,00 zà ; 1 800,00 zà ; -   zà ; 9 000,00 zà ; 7 200,00 zà 
+Wrona;M;1974-09-02;34;Dziekan;Katedra_E;Zakàad_10;19/09/1949;59;prof. dr hab.;profesor;S;125;0;180; 7 200,00 zà ; 1 440,00 zà ; 3 600,00 zà ; -   zà ; 12 240,00 zà ; 9 792,00 zà 
+Ross;M;2002-09-23;6;;Katedra_C;Zakàad_6;12/02/1969;39;dr;adiunkt;NS;246;90;240; 3 600,00 zà ; 216,00 zà ; -   zà ; 399,00 zà ; 4 215,00 zà ; 3 372,00 zà 
+D•browska;K;2005-02-13;3;;Katedra_E;Zakàad_10;23/04/1980;28;mgr;doktorant;NS;120;0;120; 1 200,00 zà ; 36,00 zà ; -   zà ; -   zà ; 1 236,00 zà ; 988,80 zà 
+èwierz;M;2003-09-25;5;Kierownik Zakàadu;Katedra_A;Zakàad_2;02/12/1956;52;dr hab.;adiunkt;S;154;108;240; 3 600,00 zà ; 180,00 zà ; 720,00 zà ; 92,40 zà ; 4 592,40 zà ; 3 673,92 zà 
+Karpi‰ski;M;1998-02-23;10;;Katedra_B;Zakàad_5;08/01/1951;57;dr;adiunkt;NS;268;45;240; 3 600,00 zà ; 360,00 zà ; -   zà ; 287,00 zà ; 4 247,00 zà ; 3 397,60 zà 
+Sàawiak;K;2003-09-13;5;Kierownik Zakàadu;Katedra_E;Zakàad_11;20/08/1956;52;prof. dr hab.;profesor;S;136;0;180; 7 200,00 zà ; 360,00 zà ; 1 440,00 zà ; -   zà ; 9 000,00 zà ; 7 200,00 zà 
+Abramowicz;M;2006-02-02;2;;Katedra_B;Zakàad_4;11/01/1981;27;mgr;doktorant;NS;120;0;120; 1 200,00 zà ; 24,00 zà ; -   zà ; -   zà ; 1 224,00 zà ; 979,20 zà 
+Kosecki;M;2000-09-14;8;Kierownik Katedry;Katedra_D;Zakàad_8;24/01/1939;69;dr hab.;prof. nadzw.;S;161;0;210; 6 000,00 zà ; 480,00 zà ; 1 800,00 zà ; -   zà ; 8 280,00 zà ; 6 624,00 zà 
+Zuba;K;2002-02-26;6;Kierownik Zakàadu;Katedra_C;Zakàad_7;29/05/1959;49;dr hab.;prof. nadzw.;S;144;0;210; 6 000,00 zà ; 360,00 zà ; 1 200,00 zà ; -   zà ; 7 560,00 zà ; 6 048,00 zà 
+Babalski;M;2005-09-04;3;;Katedra_B;Zakàad_5;18/05/1965;43;dr;adiunkt;NS;240;27;240; 3 600,00 zà ; 108,00 zà ; -   zà ; 113,40 zà ; 3 821,40 zà ; 3 057,12 zà 
+Hibner;K;2000-02-17;8;;Katedra_C;Zakàad_6;09/09/1977;31;dr;adiunkt;NS;288;27;240; 3 600,00 zà ; 288,00 zà ; -   zà ; 281,40 zà ; 4 169,40 zà ; 3 335,52 zà 
+Janowska;K;2001-09-18;7;;Katedra_C;Zakàad_7;03/05/1978;30;mgr;asystent;NS;279;0;240; 1 800,00 zà ; 126,00 zà ; -   zà ; 104,00 zà ; 2 030,00 zà ; 1 624,00 zà 
+Okàa-Drewnowicz;K;1999-09-12;9;;Katedra_E;Zakàad_10;09/09/1973;35;dr;adiunkt;NS;241;72;240; 3 600,00 zà ; 324,00 zà ; -   zà ; 305,90 zà ; 4 229,90 zà ; 3 383,92 zà 
+Pierzchaàa;K;1991-09-22;17;;Katedra_C;Zakàad_6;23/03/1965;43;dr;adiunkt;NS;265;105;240; 3 600,00 zà ; 612,00 zà ; -   zà ; 528,50 zà ; 4 740,50 zà ; 3 792,40 zà 
+Ba‰kowska;K;2005-09-11;3;;Katedra_E;Zakàad_11;21/02/1974;34;dr;adiunkt;NS;287;0;240; 3 600,00 zà ; 108,00 zà ; -   zà ; 164,50 zà ; 3 872,50 zà ; 3 098,00 zà 
+Sikora;K;1981-02-15;27;;Katedra_D;Zakàad_9;21/01/1956;52;dr;st. wykàadowca;NS;361;0;360; 3 600,00 zà ; 720,00 zà ; -   zà ; 3,50 zà ; 4 323,50 zà ; 3 458,80 zà 
+Rakoczy;M;1978-02-16;30;;Katedra_B;Zakàad_4;04/09/1952;56;dr;adiunkt;NS;240;46;240; 3 600,00 zà ; 720,00 zà ; -   zà ; 193,20 zà ; 4 513,20 zà ; 3 610,56 zà 
+Oàdakowski;M;1986-02-24;22;;Katedra_B;Zakàad_5;02/02/1960;48;dr;st. wykàadowca;NS;395;0;360; 3 600,00 zà ; 720,00 zà ; -   zà ; 122,50 zà ; 4 442,50 zà ; 3 554,00 zà 
+Jaros;M;2003-02-25;5;;Katedra_A;Zakàad_1;28/10/1952;56;dr;adiunkt;NS;246;36;240; 3 600,00 zà ; 180,00 zà ; -   zà ; 172,20 zà ; 3 952,20 zà ; 3 161,76 zà 
+Arent;K;2001-02-11;7;Kierownik Zakàadu;Katedra_E;Zakàad_10;08/05/1970;38;dr;adiunkt;NS;163;36;240; 3 600,00 zà ; 252,00 zà ; 720,00 zà ; -   zà ; 4 572,00 zà ; 3 657,60 zà 
+Masàowska;K;2003-02-16;5;;Katedra_D;Zakàad_8;02/07/1954;54;dr;adiunkt;NS;266;72;240; 3 600,00 zà ; 180,00 zà ; -   zà ; 393,40 zà ; 4 173,40 zà ; 3 338,72 zà 
+Fabisiak;K;2006-09-19;2;;Katedra_D;Zakàad_8;14/09/1982;26;mgr;doktorant;NS;120;0;120; 1 200,00 zà ; 24,00 zà ; -   zà ; -   zà ; 1 224,00 zà ; 979,20 zà 
+Buàa;M;2005-02-01;3;;Katedra_C;Zakàad_6;21/08/1980;28;mgr;asystent;NS;285;60;240; 1 800,00 zà ; 54,00 zà ; -   zà ; 312,00 zà ; 2 166,00 zà ; 1 732,80 zà 
+Wargocka;K;1991-02-21;17;;Katedra_E;Zakàad_10;24/08/1964;44;dr;adiunkt;NS;269;50;240; 3 600,00 zà ; 612,00 zà ; -   zà ; 311,50 zà ; 4 523,50 zà ; 3 618,80 zà 
+Krupa;M;2007-09-23;1;;Katedra_A;Zakàad_3;04/03/1982;26;mgr;doktorant;NS;120;0;120; 1 200,00 zà ; 12,00 zà ; -   zà ; -   zà ; 1 212,00 zà ; 969,60 zà 
+Kwitek;M;2003-09-13;5;;Katedra_C;Zakàad_7;03/02/1978;30;mgr;asystent;NS;249;45;240; 1 800,00 zà ; 90,00 zà ; -   zà ; 168,00 zà ; 2 058,00 zà ; 1 646,40 zà 
+Szarama;M;1988-02-13;20;;Katedra_D;Zakàad_9;16/03/1963;45;mgr;wykàadowca;NS;359;0;330; 1 800,00 zà ; 360,00 zà ; -   zà ; 77,33 zà ; 2 237,33 zà ; 1 789,87 zà 
+Skorupa;M;1997-02-22;11;;Katedra_E;Zakàad_11;25/02/1972;36;dr;adiunkt;NS;288;27;240; 3 600,00 zà ; 396,00 zà ; -   zà ; 281,40 zà ; 4 277,40 zà ; 3 421,92 zà 
+Janik;M;2006-02-08;2;;Katedra_D;Zakàad_9;19/04/1966;42;dr;adiunkt;NS;278;105;240; 3 600,00 zà ; 72,00 zà ; -   zà ; 574,00 zà ; 4 246,00 zà ; 3 396,80 zà 
+Halicki;M;1999-02-22;9;;Katedra_C;Zakàad_6;04/12/1969;39;dr;adiunkt;NS;284;90;240; 3 600,00 zà ; 324,00 zà ; -   zà ; 532,00 zà ; 4 456,00 zà ; 3 564,80 zà 
+Ryszka;M;2002-02-14;6;;Katedra_A;Zakàad_1;11/03/1975;33;mgr inæ.;asystent;NS;248;0;240; 1 800,00 zà ; 108,00 zà ; -   zà ; 21,33 zà ; 1 929,33 zà ; 1 543,47 zà 
+Brejza;M;2003-02-17;5;;Katedra_D;Zakàad_8;21/08/1960;48;dr;adiunkt;NS;273;27;240; 3 600,00 zà ; 180,00 zà ; -   zà ; 228,90 zà ; 4 008,90 zà ; 3 207,12 zà 
+Zakrzewska;K;2000-09-23;8;Kierownik Zakàadu;Katedra_A;Zakàad_3;01/08/1969;39;dr;adiunkt;NS;189;36;240; 3 600,00 zà ; 288,00 zà ; 720,00 zà ; -   zà ; 4 608,00 zà ; 3 686,40 zà 
+Czuma;M;1996-09-17;12;;Katedra_B;Zakàad_5;13/10/1970;38;dr;adiunkt;NS;258;90;240; 3 600,00 zà ; 432,00 zà ; -   zà ; 441,00 zà ; 4 473,00 zà ; 3 578,40 zà 
+Guzowska;K;1992-02-02;16;;Katedra_D;Zakàad_9;13/10/1967;41;dr;st. wykàadowca;NS;382;0;360; 3 600,00 zà ; 576,00 zà ; -   zà ; 77,00 zà ; 4 253,00 zà ; 3 402,40 zà 
+Raba;M;1998-02-19;10;Kierownik Zakàadu;Katedra_B;Zakàad_5;04/10/1962;46;dr;adiunkt;NS;171;36;240; 3 600,00 zà ; 360,00 zà ; 720,00 zà ; -   zà ; 4 680,00 zà ; 3 744,00 zà 
+Kierzkowska;K;1984-02-06;24;;Katedra_E;Zakàad_10;25/02/1958;50;dr;st. wykàadowca;NS;398;0;360; 3 600,00 zà ; 720,00 zà ; -   zà ; 133,00 zà ; 4 453,00 zà ; 3 562,40 zà 
+Polak;M;2002-09-19;6;;Katedra_B;Zakàad_4;22/09/1952;56;dr;st. wykàadowca;NS;397;0;360; 3 600,00 zà ; 216,00 zà ; -   zà ; 129,50 zà ; 3 945,50 zà ; 3 156,40 zà 
+Racki;M;2003-02-16;5;;Katedra_B;Zakàad_4;03/10/1969;39;dr;adiunkt;NS;240;0;240; 3 600,00 zà ; 180,00 zà ; -   zà ; -   zà ; 3 780,00 zà ; 3 024,00 zà 
+Olechowska;K;1994-09-18;14;;Katedra_A;Zakàad_2;24/08/1963;45;dr;adiunkt;NS;242;105;240; 3 600,00 zà ; 504,00 zà ; -   zà ; 448,00 zà ; 4 552,00 zà ; 3 641,60 zà 
+Adamczyk;M;2000-02-25;8;;Katedra_E;Zakàad_11;04/02/1956;52;dr;adiunkt;NS;252;90;240; 3 600,00 zà ; 288,00 zà ; -   zà ; 420,00 zà ; 4 308,00 zà ; 3 446,40 zà 
+Wolak;K;2006-09-21;2;;Katedra_E;Zakàad_10;13/02/1982;26;mgr;doktorant;NS;120;0;120; 1 200,00 zà ; 24,00 zà ; -   zà ; -   zà ; 1 224,00 zà ; 979,20 zà 
+Waòko;M;1992-09-15;16;Kierownik Katedry;Katedra_A;Zakàad_1;25/03/1962;46;dr hab.;prof. nadzw.;S;165;0;210; 6 000,00 zà ; 960,00 zà ; 1 800,00 zà ; -   zà ; 8 760,00 zà ; 7 008,00 zà 
+Ωelichowski;M;1997-02-14;11;;Katedra_C;Zakàad_6;10/02/1971;37;dr;adiunkt;NS;243;90;240; 3 600,00 zà ; 396,00 zà ; -   zà ; 388,50 zà ; 4 384,50 zà ; 3 507,60 zà 
+Lipiec;M;1995-02-07;13;Kierownik Zakàadu;Katedra_C;Zakàad_6;04/06/1968;40;dr;adiunkt;NS;179;72;240; 3 600,00 zà ; 468,00 zà ; 720,00 zà ; 46,20 zà ; 4 834,20 zà ; 3 867,36 zà 
+Drab;K;1984-09-12;24;;Katedra_C;Zakàad_6;17/11/1955;53;dr;adiunkt;NS;278;0;240; 3 600,00 zà ; 720,00 zà ; -   zà ; 133,00 zà ; 4 453,00 zà ; 3 562,40 zà 
+Kowalski;M;1998-02-21;10;;Katedra_A;Zakàad_1;29/07/1951;57;dr;adiunkt;NS;256;45;240; 3 600,00 zà ; 360,00 zà ; -   zà ; 245,00 zà ; 4 205,00 zà ; 3 364,00 zà 
+Kuriata;M;2004-02-06;4;Prodziekan;Katedra_B;Zakàad_5;14/03/1938;70;dr hab.;prof. nadzw.;S;154;0;210; 6 000,00 zà ; 240,00 zà ; 2 400,00 zà ; -   zà ; 8 640,00 zà ; 6 912,00 zà 
+Gwiazdowski;M;1992-02-28;16;;Katedra_D;Zakàad_9;28/06/1961;47;mgr;wykàadowca;NS;333;0;330; 1 800,00 zà ; 288,00 zà ; -   zà ; 8,00 zà ; 2 096,00 zà ; 1 676,80 zà 
+Wielichowska;K;2005-02-10;3;;Katedra_A;Zakàad_1;20/02/1978;30;mgr;doktorant;NS;120;0;120; 1 200,00 zà ; 36,00 zà ; -   zà ; -   zà ; 1 236,00 zà ; 988,80 zà 
+Witek;K;2004-02-21;4;;Katedra_E;Zakàad_11;10/11/1979;29;dr;adiunkt;NS;256;36;240; 3 600,00 zà ; 144,00 zà ; -   zà ; 207,20 zà ; 3 951,20 zà ; 3 160,96 zà 
+Suski;M;1983-09-07;25;Kierownik Zakàadu;Katedra_D;Zakàad_8;15/08/1956;52;dr hab.;prof. nadzw.;S;156;0;210; 6 000,00 zà ; 1 200,00 zà ; 1 200,00 zà ; -   zà ; 8 400,00 zà ; 6 720,00 zà 
+Osuch;M;1971-09-12;37;Kierownik Katedry;Katedra_E;Zakàad_10;29/08/1946;62;dr hab.;prof. nadzw.;S;134;0;210; 6 000,00 zà ; 1 200,00 zà ; 1 800,00 zà ; -   zà ; 9 000,00 zà ; 7 200,00 zà 
+Mày‰czak;K;1992-09-08;16;Prodziekan;Katedra_E;Zakàad_10;13/12/1967;41;dr;adiunkt;NS;185;108;240; 3 600,00 zà ; 576,00 zà ; 1 440,00 zà ; 222,60 zà ; 5 838,60 zà ; 4 670,88 zà 
+Kaczanowski;M;2002-09-22;6;;Katedra_A;Zakàad_1;16/05/1977;31;mgr inæ.;asystent;NS;262;90;240; 1 800,00 zà ; 108,00 zà ; -   zà ; 346,67 zà ; 2 254,67 zà ; 1 803,73 zà 
+Krzyòk¢w;M;2004-09-16;4;;Katedra_D;Zakàad_9;29/12/1963;45;dr;adiunkt;NS;272;0;240; 3 600,00 zà ; 144,00 zà ; -   zà ; 112,00 zà ; 3 856,00 zà ; 3 084,80 zà 
+Katulski;M;1982-02-21;26;Kierownik Zakàadu;Katedra_D;Zakàad_9;06/06/1950;58;dr hab.;prof. nadzw.;S;170;0;210; 6 000,00 zà ; 1 200,00 zà ; 1 200,00 zà ; -   zà ; 8 400,00 zà ; 6 720,00 zà 
+Streker-Dembi‰ska;K;2001-02-23;7;;Katedra_D;Zakàad_8;21/10/1965;43;dr;adiunkt;NS;277;72;240; 3 600,00 zà ; 252,00 zà ; -   zà ; 431,90 zà ; 4 283,90 zà ; 3 427,12 zà 
+Chàopek;M;1999-02-14;9;;Katedra_A;Zakàad_2;07/11/1965;43;mgr inæ.;asystent;NS;281;105;240; 1 800,00 zà ; 162,00 zà ; -   zà ; 445,33 zà ; 2 407,33 zà ; 1 925,87 zà 
+Ka´mierczak;M;1985-09-13;23;;Katedra_D;Zakàad_8;25/04/1958;50;dr;st. wykàadowca;NS;399;0;360; 3 600,00 zà ; 720,00 zà ; -   zà ; 136,50 zà ; 4 456,50 zà ; 3 565,20 zà 
+Nowak;K;2007-09-03;1;;Katedra_E;Zakàad_11;22/10/1982;26;mgr;doktorant;NS;120;0;120; 1 200,00 zà ; 12,00 zà ; -   zà ; -   zà ; 1 212,00 zà ; 969,60 zà 
+Tyszkiewicz;M;2004-02-14;4;;Katedra_A;Zakàad_3;26/06/1970;38;dr;adiunkt;NS;244;27;240; 3 600,00 zà ; 144,00 zà ; -   zà ; 127,40 zà ; 3 871,40 zà ; 3 097,12 zà 
+B©tkowski;M;1997-02-22;11;Kierownik Zakàadu;Katedra_A;Zakàad_1;24/08/1972;36;dr;adiunkt;NS;147;90;240; 3 600,00 zà ; 396,00 zà ; 720,00 zà ; -   zà ; 4 716,00 zà ; 3 772,80 zà 
+Czechyra;M;2002-02-17;6;;Katedra_B;Zakàad_5;11/03/1968;40;dr;adiunkt;NS;245;90;240; 3 600,00 zà ; 216,00 zà ; -   zà ; 395,50 zà ; 4 211,50 zà ; 3 369,20 zà

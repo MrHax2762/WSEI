@@ -1,0 +1,36 @@
+c:\tmp\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\tmp\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\tmp\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\tmp\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\TMP\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\TMP\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\TMP\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\TMP\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\TMP\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\TMP\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\TMP\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\TMP\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\_DYDAKTYKA\Paw\_NET\EntityFramework\Code First\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

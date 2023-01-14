@@ -1,0 +1,8 @@
+C:\_DYDAKTYKA\Bazy Danych\moje_wyklady\SQLite\Aplikacja\Pierwsza\bin\Debug\Pierwsza.exe
+C:\_DYDAKTYKA\Bazy Danych\moje_wyklady\SQLite\Aplikacja\Pierwsza\bin\Debug\Pierwsza.pdb
+C:\_DYDAKTYKA\Bazy Danych\moje_wyklady\SQLite\Aplikacja\Pierwsza\bin\Debug\System.Data.SQLite.dll
+C:\_DYDAKTYKA\Bazy Danych\moje_wyklady\SQLite\Aplikacja\Pierwsza\bin\Debug\System.Data.SQLite.xml
+C:\_DYDAKTYKA\Bazy Danych\moje_wyklady\SQLite\Aplikacja\Pierwsza\obj\x86\Debug\Pierwsza.exe
+C:\_DYDAKTYKA\Bazy Danych\moje_wyklady\SQLite\Aplikacja\Pierwsza\obj\x86\Debug\Pierwsza.pdb
+C:\_DYDAKTYKA\Bazy Danych\moje_wyklady\SQLite\Aplikacja\Pierwsza\obj\x86\Debug\Pierwsza.csprojResolveAssemblyReference.cache
+C:\_DYDAKTYKA\Bazy Danych\moje_wyklady\SQLite\Aplikacja\Pierwsza\obj\x86\Debug\Pierwsza.csproj.CoreCompileInputs.cache

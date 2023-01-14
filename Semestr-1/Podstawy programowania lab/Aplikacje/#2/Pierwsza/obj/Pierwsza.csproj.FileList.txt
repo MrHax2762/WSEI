@@ -1,0 +1,16 @@
+bin\Debug\Pierwsza.exe
+bin\Debug\Pierwsza.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Pierwsza.Form1.resources
+obj\Debug\Pierwsza.Properties.Resources.resources
+obj\Debug\Pierwsza.csproj.GenerateResource.Cache
+obj\Debug\Pierwsza.exe
+obj\Debug\Pierwsza.pdb
+bin\Release\Pierwsza.exe
+bin\Release\Pierwsza.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Pierwsza.Form1.resources
+obj\Release\Pierwsza.Properties.Resources.resources
+obj\Release\Pierwsza.csproj.GenerateResource.Cache
+obj\Release\Pierwsza.exe
+obj\Release\Pierwsza.pdb

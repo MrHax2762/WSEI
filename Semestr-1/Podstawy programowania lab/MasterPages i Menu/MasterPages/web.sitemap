@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<siteMap>
+  <siteMapNode title="G³ówna" url="http://paw.agh.edu.pl/start">
+    <siteMapNode title="G³êbiej" url="http://paw.agh.edu.pl/aktualnosci">
+      <siteMapNode title="Najg³êbsza opcja 1" url="http://paw.agh.edu.pl/zajecia" />
+      <siteMapNode title="Najg³êbsza opcja 1" url="http://paw.agh.edu.pl/organizator" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

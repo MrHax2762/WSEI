@@ -1,0 +1,44 @@
+SQLLite
+
+
+Bazy tworzymy w plikach przy u¿yciu narzedzia sqlite3.exe
+Tworzenie bazy danych:
+c:\sqlite3 test.db
+Powstanie plik o tej nazwie, zostanie automatycznie otwarty
+
+
+Tworzenie tabel w bazie:
+sqlite> CREATE TABLE FIRMA(
+   ID INT PRIMARY KEY     NOT NULL,
+   NAME           TEXT    NOT NULL,
+   AGE            INT     NOT NULL,
+   ADDRESS        CHAR(50),
+);
+
+sqlite> CREATE TABLE TELEFON(
+   ID INT PRIMARY KEY      NOT NULL,
+   OPIS           CHAR(50) NOT NULL,
+   PUNKTY         INT      NOT NULL
+);
+
+Przyk³ady zapytañ SQL:
+SELECT column1, column2, columnN FROM table_name;
+SELECT * FROM FIRMA;
+DELETE FROM table_name WHERE [condition];
+DELETE FROM FIRMA WHERE ID = 7;
+INSERT INTO TABLE_NAME (column1, column2, column3,...columnN)]  VALUES (value1, value2, value3,...valueN);
+INSERT INTO FIRMA (ID,NAME,AGE,ADDRESS) VALUES (1, 'XXX', 32, 'Krakow');
+DROP TABLE database_name.table_name;
+DROP TABLE FIRMA;
+UPDATE table_name SET column1 = value1, column2 = value2...., columnN = valueN WHERE [condition];
+UPDATE FIRMA SET ADDRESS = 'Warszawa' WHERE ID = 1;
+
+
+u¿yteczne komendy:
+.exit
+.tables - wypisanie tabel
+.databases - wypisanie baz danych
+.read plik.sql - uruchomienie skryptu
+.show - wypisanei ustawieñ
+.output plik - przekietowanie wyników do pliku
+c:\sqlite3 test.db .dump > baza.sql - eksport bazy danych do pliku SQL (skryptowanie bazy danych)

@@ -1,0 +1,8 @@
+C:\_DYDAKTYKA\Programowanie aplikacji okienkowych Windows\NET\listingi\Prezentacje - Wyklad2\#1\Pierwsza\obj\Debug\Pierwsza.exe
+C:\_DYDAKTYKA\Programowanie aplikacji okienkowych Windows\NET\listingi\Prezentacje - Wyklad2\#1\Pierwsza\obj\Debug\Pierwsza.pdb
+C:\_DYDAKTYKA\Programowanie aplikacji okienkowych Windows\NET\listingi\Prezentacje - Wyklad2\#1\Pierwsza\bin\Debug\Pierwsza.exe
+C:\_DYDAKTYKA\Programowanie aplikacji okienkowych Windows\NET\listingi\Prezentacje - Wyklad2\#1\Pierwsza\bin\Debug\Pierwsza.pdb
+C:\_DYDAKTYKA\Programowanie aplikacji okienkowych Windows\NET\listingi\Prezentacje - Wyklad2\#1\Pierwsza\obj\Debug\ResolveAssemblyReference.cache
+C:\_DYDAKTYKA\Programowanie aplikacji okienkowych Windows\NET\listingi\Prezentacje - Wyklad2\#1\Pierwsza\obj\Debug\Pierwsza.Form1.resources
+C:\_DYDAKTYKA\Programowanie aplikacji okienkowych Windows\NET\listingi\Prezentacje - Wyklad2\#1\Pierwsza\obj\Debug\Pierwsza.Properties.Resources.resources
+C:\_DYDAKTYKA\Programowanie aplikacji okienkowych Windows\NET\listingi\Prezentacje - Wyklad2\#1\Pierwsza\obj\Debug\Pierwsza.csproj.GenerateResource.Cache

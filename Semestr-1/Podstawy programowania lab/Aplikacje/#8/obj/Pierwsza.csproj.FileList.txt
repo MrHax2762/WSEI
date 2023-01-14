@@ -1,0 +1,8 @@
+bin\Debug\Pierwsza.exe
+bin\Debug\Pierwsza.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Pierwsza.Form1.resources
+obj\Debug\Pierwsza.Properties.Resources.resources
+obj\Debug\Pierwsza.csproj.GenerateResource.Cache
+obj\Debug\Pierwsza.exe
+obj\Debug\Pierwsza.pdb

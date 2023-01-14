@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>dokumentowanie</name>
+    </assembly>
+    <members>
+        <member name="T:przyklad.Dokumentowanie">
+            <summary>
+            Klasa pokazuje jak dokumentowac
+            </summary>
+        </member>
+        <member name="F:przyklad.Dokumentowanie.m_iZmienna">
+            <summary>
+            m_iZmienna jest atrybutem tej klasy
+            </summary>
+        </member>
+        <member name="M:przyklad.Dokumentowanie.Main">
+            <summary>
+            Metoda Main
+            </summary>
+        </member>
+        <member name="M:przyklad.Dokumentowanie.metoda1(System.Int32)">
+            <summary>
+            <param name="liczba"> Pierwszy i jedyny parametr metody</param>
+            <returns> Metoda zwraca liczba powiekszone o 1</returns>
+            <see>metoda2</see>
+            </summary>
+        </member>
+        <member name="M:przyklad.Dokumentowanie.metoda2(System.Int32)">
+            <summary>
+            <param name="liczba"> Pierwszy i jedyny parametr metody</param>
+            <returns> Metoda zwraca liczba pomniejszone o 1</returns>
+            <see>metoda1</see>
+            </summary>
+        </member>
+    </members>
+</doc>

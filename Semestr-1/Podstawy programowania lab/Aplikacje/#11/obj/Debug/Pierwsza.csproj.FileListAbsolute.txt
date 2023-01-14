@@ -1,0 +1,2 @@
+C:\_DYDAKTYKA\Programowanie Komputerow\C#\C# Windows Forms\#11\obj\Debug\Pierwsza.exe
+C:\_DYDAKTYKA\Programowanie Komputerow\C#\C# Windows Forms\#11\obj\Debug\Pierwsza.pdb

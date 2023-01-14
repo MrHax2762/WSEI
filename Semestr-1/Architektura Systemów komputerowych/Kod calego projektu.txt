@@ -1,0 +1,246 @@
+using System;
+
+namespace Architektura_Systemów_komputerowych_projekt
+{
+    internal class Program
+    {static void Main(string[] args)
+        {int[] tablica = new int[65536];
+            for (int i = 0; i < 65536; i++)
+            {tablica[i] = i; Console.WriteLine(tablica[i]);}
+                static string OR(int argumentOr,int drugiargumentOr)
+                { int orint = argumentOr | drugiargumentOr;Console.WriteLine(OR(argumentOr,drugiargumentOr));return Convert.ToString(orint,toBase: 2);}
+                static string AND(int argumentAND,int drugiargumentAND)
+                {int ANDint = argumentAND & drugiargumentAND;Console.WriteLine(AND(argumentAND,drugiargumentAND));return Convert.ToString(ANDint,toBase: 2);}
+                static string XOR(int argumentXOR,int drugiargumentXOR)
+                { int XORint = argumentXOR ^ drugiargumentXOR;Console.WriteLine(XOR(argumentXOR,drugiargumentXOR));return Convert.ToString(XORint,toBase: 2);}
+                static string PrzesuwanieWLewo(int argumentPrzewle,int drugiargumentPrzewle)
+                { int Przewleint = argumentPrzewle<<drugiargumentPrzewle; Console.WriteLine(PrzesuwanieWLewo(argumentPrzewle,drugiargumentPrzewle));return Convert.ToString(Przewleint, toBase:2);}
+                static string PrzesuwanieWPrawo(int argumentPrzewpra,int drugiargumentPrzewpra)
+                { int Przewpraint = argumentPrzewpra>>drugiargumentPrzewpra;Console.WriteLine(PrzesuwanieWPrawo(argumentPrzewpra,drugiargumentPrzewpra));return Convert.ToString(Przewpraint,toBase:2);}
+                Console.WriteLine("Podaj wartość rejestru AL: ");string wpisanaWartosc1 = Console.ReadLine();int hex1 = Convert.ToInt32(wpisanaWartosc1, 16);
+                Console.WriteLine("Podaj wartość rejestru AH: ");string wpisanaWartosc2 = Console.ReadLine();int hex2 = Convert.ToInt32(wpisanaWartosc2, 16);
+                Console.WriteLine("Podaj wartość rejestru BL: ");string wpisanaWartosc3 = Console.ReadLine();int hex3 = Convert.ToInt32(wpisanaWartosc3, 16);
+                Console.WriteLine("Podaj wartość rejestru BH: ");string wpisanaWartosc4 = Console.ReadLine();int hex4 = Convert.ToInt32(wpisanaWartosc4, 16);
+                Console.WriteLine("Podaj wartość rejestru CL: ");string wpisanaWartosc5 = Console.ReadLine();int hex5 = Convert.ToInt32(wpisanaWartosc5, 16);
+                Console.WriteLine("Podaj wartość rejestru CH: ");string wpisanaWartosc6 = Console.ReadLine();int hex6 = Convert.ToInt32(wpisanaWartosc6, 16);
+                Console.WriteLine("Podaj wartość rejestru DL: ");string wpisanaWartosc7 = Console.ReadLine();int hex7 = Convert.ToInt32(wpisanaWartosc7, 16);
+                Console.WriteLine("Podaj wartość rejestru DH: ");string wpisanaWartosc8 = Console.ReadLine();int hex8 = Convert.ToInt32(wpisanaWartosc8, 16);
+                Console.Clear(); Console.WriteLine("Wartosc Twoich rejestrow wynososi: ");
+                String[] wpisanewartosci = { "AL: " +wpisanaWartosc1 + " Dec/" + hex1, "AH: " + wpisanaWartosc2 + " Dec/" + hex2, "BL: "+wpisanaWartosc3 + " Dec/" + hex3, "BH: "+wpisanaWartosc4 + " Dec/" + hex4,
+                "CL: "+wpisanaWartosc5+ " Dec/" + hex5, "CH: "+wpisanaWartosc6+ " Dec/" + hex6, "DL: "+wpisanaWartosc7+ " Dec/" + hex7, "DH: "+wpisanaWartosc8+ " Dec/" + hex8 };
+                foreach (string wpisan in wpisanewartosci)
+                {Console.WriteLine(wpisan);}Console.WriteLine(""); Console.WriteLine("Aby kontynowac wcisnij Enter ... ");
+                Console.ReadLine(); Console.Clear(); Console.WriteLine("Który rejestr chcesz przypisac?");
+                Console.WriteLine("1.AL:" + wpisanaWartosc1); Console.WriteLine("2.AH:" + wpisanaWartosc2);
+                Console.WriteLine("3.BL:" + wpisanaWartosc3); Console.WriteLine("4.BH:" + wpisanaWartosc4);
+                Console.WriteLine("5.CL:" + wpisanaWartosc5); Console.WriteLine("6.CH:" + wpisanaWartosc6);
+                Console.WriteLine("7.DL:" + wpisanaWartosc7); Console.WriteLine("8.DH:" + wpisanaWartosc8);
+                Console.WriteLine(""); string opcja = Console.ReadLine();
+                if (opcja == "12") { wpisanaWartosc1 = wpisanaWartosc2; } else if (opcja == "87") { wpisanaWartosc8 = wpisanaWartosc7; }
+                else if (opcja == "21") { wpisanaWartosc2 = wpisanaWartosc1; }else if (opcja == "13") { wpisanaWartosc1 = wpisanaWartosc3; }
+                else if (opcja == "31") { wpisanaWartosc3 = wpisanaWartosc1; }else if (opcja == "14") { wpisanaWartosc1 = wpisanaWartosc4; }
+                else if (opcja == "41") { wpisanaWartosc4 = wpisanaWartosc1; }else if (opcja == "15") { wpisanaWartosc1 = wpisanaWartosc5; }
+                else if (opcja == "51") { wpisanaWartosc5 = wpisanaWartosc1; }else if (opcja == "16") { wpisanaWartosc1 = wpisanaWartosc6; }
+                else if (opcja == "61") { wpisanaWartosc6 = wpisanaWartosc1; }else if (opcja == "17") { wpisanaWartosc1 = wpisanaWartosc7; }
+                else if (opcja == "71") { wpisanaWartosc7 = wpisanaWartosc1; }else if (opcja == "18") { wpisanaWartosc1 = wpisanaWartosc8; }
+                else if (opcja == "81") { wpisanaWartosc8 = wpisanaWartosc1; }else if (opcja == "23") { wpisanaWartosc2 = wpisanaWartosc3; }
+                else if (opcja == "32") { wpisanaWartosc3 = wpisanaWartosc2; }else if (opcja == "24") { wpisanaWartosc2 = wpisanaWartosc4; }
+                else if (opcja == "42") { wpisanaWartosc4 = wpisanaWartosc2; }else if (opcja == "25") { wpisanaWartosc2 = wpisanaWartosc5; }
+                else if (opcja == "52") { wpisanaWartosc5 = wpisanaWartosc2; }else if (opcja == "26") { wpisanaWartosc2 = wpisanaWartosc6; }
+                else if (opcja == "62") { wpisanaWartosc6 = wpisanaWartosc2; }else if (opcja == "27") { wpisanaWartosc2 = wpisanaWartosc7; }
+                else if (opcja == "72") { wpisanaWartosc7 = wpisanaWartosc2; }else if (opcja == "28") { wpisanaWartosc2 = wpisanaWartosc8; }
+                else if (opcja == "82") { wpisanaWartosc8 = wpisanaWartosc2; }else if (opcja == "34") { wpisanaWartosc3 = wpisanaWartosc4; }
+                else if (opcja == "43") { wpisanaWartosc4 = wpisanaWartosc3; }else if (opcja == "35") { wpisanaWartosc3 = wpisanaWartosc5; }
+                else if (opcja == "53") { wpisanaWartosc5 = wpisanaWartosc3; }else if (opcja == "36") { wpisanaWartosc3 = wpisanaWartosc6; }
+                else if (opcja == "63") { wpisanaWartosc6 = wpisanaWartosc3; }else if (opcja == "37") { wpisanaWartosc3 = wpisanaWartosc7; }
+                else if (opcja == "73") { wpisanaWartosc7 = wpisanaWartosc3; }else if (opcja == "38") { wpisanaWartosc3 = wpisanaWartosc8; }
+                else if (opcja == "83") { wpisanaWartosc8 = wpisanaWartosc3; }else if (opcja == "45") { wpisanaWartosc4 = wpisanaWartosc5; }
+                else if (opcja == "54") { wpisanaWartosc5 = wpisanaWartosc4; }else if (opcja == "46") { wpisanaWartosc4 = wpisanaWartosc6; }
+                else if (opcja == "64") { wpisanaWartosc6 = wpisanaWartosc4; }else if (opcja == "47") { wpisanaWartosc4 = wpisanaWartosc7; }
+                else if (opcja == "74") { wpisanaWartosc7 = wpisanaWartosc4; }else if (opcja == "48") { wpisanaWartosc4 = wpisanaWartosc8; }
+                else if (opcja == "84") { wpisanaWartosc8 = wpisanaWartosc4; }else if (opcja == "56") { wpisanaWartosc5 = wpisanaWartosc6; }
+                else if (opcja == "65") { wpisanaWartosc6 = wpisanaWartosc5; }else if (opcja == "57") { wpisanaWartosc5 = wpisanaWartosc7; }
+                else if (opcja == "75") { wpisanaWartosc7 = wpisanaWartosc5; }else if (opcja == "58") { wpisanaWartosc5 = wpisanaWartosc8; }
+                else if (opcja == "85") { wpisanaWartosc8 = wpisanaWartosc5; }else if (opcja == "67") { wpisanaWartosc6 = wpisanaWartosc7; }
+                else if (opcja == "76") { wpisanaWartosc7 = wpisanaWartosc6; }else if (opcja == "68") { wpisanaWartosc6 = wpisanaWartosc8; }
+                else if (opcja == "86") { wpisanaWartosc8 = wpisanaWartosc6; }else if (opcja == "78") { wpisanaWartosc7 = wpisanaWartosc8; }
+                Console.Clear(); Console.WriteLine("Nowe wartosci rejestru:");
+                Console.WriteLine("AL:" + wpisanaWartosc1); Console.WriteLine("AH:" + wpisanaWartosc2); Console.WriteLine("BL:" + wpisanaWartosc3); Console.WriteLine("BH:" + wpisanaWartosc4);
+                Console.WriteLine("CL:" + wpisanaWartosc5); Console.WriteLine("CH:" + wpisanaWartosc6); Console.WriteLine("DL:" + wpisanaWartosc7); Console.WriteLine("DH:" + wpisanaWartosc8);
+                Console.ReadLine(); Console.WriteLine("Aby kontynowac wcisnij Enter");
+                Console.Clear(); Console.WriteLine("Które rejestry chcesz ze soba zamienic?");
+                Console.WriteLine("1.AL:" + wpisanaWartosc1); Console.WriteLine("2.AH:" + wpisanaWartosc2); Console.WriteLine("3.BL:" + wpisanaWartosc3); Console.WriteLine("4.BH:" + wpisanaWartosc4);
+                Console.WriteLine("5.CL:" + wpisanaWartosc5); Console.WriteLine("6.CH:" + wpisanaWartosc6); Console.WriteLine("7.DL:" + wpisanaWartosc7); Console.WriteLine("8.DH:" + wpisanaWartosc8);
+                string opcja1 = Console.ReadLine();
+                if (opcja1 == "12") { (wpisanaWartosc1, wpisanaWartosc2) = (wpisanaWartosc2, wpisanaWartosc1); }
+                else if (opcja1 == "21") { (wpisanaWartosc2, wpisanaWartosc1) = (wpisanaWartosc1, wpisanaWartosc2); }
+                else if (opcja1 == "13") { (wpisanaWartosc1, wpisanaWartosc3) = (wpisanaWartosc3, wpisanaWartosc1); }
+                else if (opcja1 == "31") { (wpisanaWartosc3, wpisanaWartosc1) = (wpisanaWartosc1, wpisanaWartosc3); }
+                else if (opcja1 == "14") { (wpisanaWartosc1, wpisanaWartosc4) = (wpisanaWartosc4, wpisanaWartosc1); }
+                else if (opcja1 == "41") { (wpisanaWartosc4, wpisanaWartosc1) = (wpisanaWartosc1, wpisanaWartosc4); }
+                else if (opcja1 == "15") { (wpisanaWartosc1, wpisanaWartosc5) = (wpisanaWartosc5, wpisanaWartosc1); }
+                else if (opcja1 == "51") { (wpisanaWartosc5, wpisanaWartosc1) = (wpisanaWartosc1, wpisanaWartosc5); }
+                else if (opcja1 == "16") { (wpisanaWartosc1, wpisanaWartosc6) = (wpisanaWartosc6, wpisanaWartosc1); }
+                else if (opcja1 == "61") { (wpisanaWartosc6, wpisanaWartosc1) = (wpisanaWartosc1, wpisanaWartosc6); }
+                else if (opcja1 == "17") { (wpisanaWartosc1, wpisanaWartosc7) = (wpisanaWartosc7, wpisanaWartosc1); }
+                else if (opcja1 == "71") { (wpisanaWartosc7, wpisanaWartosc1) = (wpisanaWartosc1, wpisanaWartosc7); }
+                else if (opcja1 == "18") { (wpisanaWartosc1, wpisanaWartosc8) = (wpisanaWartosc8, wpisanaWartosc1); }
+                else if (opcja1 == "81") { (wpisanaWartosc8, wpisanaWartosc1) = (wpisanaWartosc1, wpisanaWartosc8); }
+                else if (opcja1 == "23") { (wpisanaWartosc2, wpisanaWartosc3) = (wpisanaWartosc3, wpisanaWartosc2); }
+                else if (opcja1 == "32") { (wpisanaWartosc3, wpisanaWartosc2) = (wpisanaWartosc2, wpisanaWartosc3); }
+                else if (opcja1 == "24") { (wpisanaWartosc2, wpisanaWartosc4) = (wpisanaWartosc4, wpisanaWartosc2); }
+                else if (opcja1 == "42") { (wpisanaWartosc4, wpisanaWartosc2) = (wpisanaWartosc2, wpisanaWartosc4); }
+                else if (opcja1 == "25") { (wpisanaWartosc2, wpisanaWartosc5) = (wpisanaWartosc5, wpisanaWartosc2); }
+                else if (opcja1 == "52") { (wpisanaWartosc5, wpisanaWartosc2) = (wpisanaWartosc2, wpisanaWartosc5); }
+                else if (opcja1 == "26") { (wpisanaWartosc2, wpisanaWartosc6) = (wpisanaWartosc6, wpisanaWartosc2); }
+                else if (opcja1 == "62") { (wpisanaWartosc6, wpisanaWartosc2) = (wpisanaWartosc2, wpisanaWartosc6); }
+                else if (opcja1 == "27") { (wpisanaWartosc2, wpisanaWartosc7) = (wpisanaWartosc7, wpisanaWartosc2); }
+                else if (opcja1 == "72") { (wpisanaWartosc7, wpisanaWartosc2) = (wpisanaWartosc2, wpisanaWartosc7); }
+                else if (opcja1 == "28") { (wpisanaWartosc2, wpisanaWartosc8) = (wpisanaWartosc8, wpisanaWartosc2); }
+                else if (opcja1 == "82") { (wpisanaWartosc8, wpisanaWartosc2) = (wpisanaWartosc2, wpisanaWartosc8); }
+                else if (opcja1 == "34") { (wpisanaWartosc3, wpisanaWartosc4) = (wpisanaWartosc4, wpisanaWartosc3); }
+                else if (opcja1 == "43") { (wpisanaWartosc4, wpisanaWartosc3) = (wpisanaWartosc3, wpisanaWartosc4); }
+                else if (opcja1 == "35") { (wpisanaWartosc3, wpisanaWartosc5) = (wpisanaWartosc5, wpisanaWartosc3); }
+                else if (opcja1 == "53") { (wpisanaWartosc5, wpisanaWartosc3) = (wpisanaWartosc3, wpisanaWartosc5); }
+                else if (opcja1 == "36") { (wpisanaWartosc3, wpisanaWartosc6) = (wpisanaWartosc6, wpisanaWartosc3); }
+                else if (opcja1 == "63") { (wpisanaWartosc6, wpisanaWartosc3) = (wpisanaWartosc3, wpisanaWartosc6); }
+                else if (opcja1 == "37") { (wpisanaWartosc3, wpisanaWartosc7) = (wpisanaWartosc7, wpisanaWartosc3); }
+                else if (opcja1 == "73") { (wpisanaWartosc7, wpisanaWartosc3) = (wpisanaWartosc3, wpisanaWartosc7); }
+                else if (opcja1 == "38") { (wpisanaWartosc3, wpisanaWartosc8) = (wpisanaWartosc8, wpisanaWartosc3); }
+                else if (opcja1 == "83") { (wpisanaWartosc8, wpisanaWartosc3) = (wpisanaWartosc3, wpisanaWartosc8); }
+                else if (opcja1 == "45") { (wpisanaWartosc4, wpisanaWartosc5) = (wpisanaWartosc5, wpisanaWartosc4); }
+                else if (opcja1 == "54") { (wpisanaWartosc5, wpisanaWartosc4) = (wpisanaWartosc4, wpisanaWartosc5); }
+                else if (opcja1 == "46") { (wpisanaWartosc4, wpisanaWartosc6) = (wpisanaWartosc6, wpisanaWartosc4); }
+                else if (opcja1 == "64") { (wpisanaWartosc6, wpisanaWartosc4) = (wpisanaWartosc4, wpisanaWartosc6); }
+                else if (opcja1 == "47") { (wpisanaWartosc4, wpisanaWartosc7) = (wpisanaWartosc7, wpisanaWartosc4); }
+                else if (opcja1 == "74") { (wpisanaWartosc7, wpisanaWartosc4) = (wpisanaWartosc4, wpisanaWartosc7); }
+                else if (opcja1 == "48") { (wpisanaWartosc4, wpisanaWartosc8) = (wpisanaWartosc8, wpisanaWartosc4); }
+                else if (opcja1 == "84") { (wpisanaWartosc8, wpisanaWartosc4) = (wpisanaWartosc4, wpisanaWartosc8); }
+                else if (opcja1 == "56") { (wpisanaWartosc5, wpisanaWartosc6) = (wpisanaWartosc6, wpisanaWartosc5); }
+                else if (opcja1 == "65") { (wpisanaWartosc6, wpisanaWartosc5) = (wpisanaWartosc5, wpisanaWartosc6); }
+                else if (opcja1 == "57") { (wpisanaWartosc5, wpisanaWartosc7) = (wpisanaWartosc7, wpisanaWartosc5); }
+                else if (opcja1 == "75") { (wpisanaWartosc7, wpisanaWartosc5) = (wpisanaWartosc5, wpisanaWartosc7); }
+                else if (opcja1 == "58") { (wpisanaWartosc5, wpisanaWartosc8) = (wpisanaWartosc8, wpisanaWartosc5); }
+                else if (opcja1 == "85") { (wpisanaWartosc8, wpisanaWartosc5) = (wpisanaWartosc5, wpisanaWartosc8); }
+                else if (opcja1 == "67") { (wpisanaWartosc6, wpisanaWartosc7) = (wpisanaWartosc7, wpisanaWartosc6); }
+                else if (opcja1 == "76") { (wpisanaWartosc7, wpisanaWartosc6) = (wpisanaWartosc6, wpisanaWartosc7); }
+                else if (opcja1 == "68") { (wpisanaWartosc6, wpisanaWartosc8) = (wpisanaWartosc8, wpisanaWartosc6); }
+                else if (opcja1 == "86") { (wpisanaWartosc8, wpisanaWartosc6) = (wpisanaWartosc6, wpisanaWartosc8); }
+                else if (opcja1 == "78") { (wpisanaWartosc7, wpisanaWartosc8) = (wpisanaWartosc8, wpisanaWartosc7); }
+                else if (opcja1 == "87") { (wpisanaWartosc8, wpisanaWartosc7) = (wpisanaWartosc7, wpisanaWartosc8); }
+                Console.WriteLine(""); Console.WriteLine("Twoje nowe wartosci rejestrow:");
+                Console.WriteLine("1.AL:" + wpisanaWartosc1); Console.WriteLine("2.AH:" + wpisanaWartosc2); Console.WriteLine("3.BL:" + wpisanaWartosc3); Console.WriteLine("4.BH:" + wpisanaWartosc4);
+                Console.WriteLine("5.CL:" + wpisanaWartosc5); Console.WriteLine("6.CH:" + wpisanaWartosc6); Console.WriteLine("7.DL:" + wpisanaWartosc7); Console.WriteLine("8.DH:" + wpisanaWartosc8);
+                Console.ReadKey(); Console.Clear(); Console.WriteLine("Twoj rejestr w systemie binarnym:");
+                string ALBIN = wpisanaWartosc1; string binaryText1 = Convert.ToString(Convert.ToInt32(ALBIN, 16), 2); Console.WriteLine("AL:" + binaryText1);
+                string AHBIN = wpisanaWartosc2; string binaryText2 = Convert.ToString(Convert.ToInt32(AHBIN, 16), 2); Console.WriteLine("AH:" + binaryText2);
+                string BLBIN = wpisanaWartosc3; string binaryText3 = Convert.ToString(Convert.ToInt32(BLBIN, 16), 2); Console.WriteLine("BL:" + binaryText3);
+                string BHBIN = wpisanaWartosc4; string binaryText4 = Convert.ToString(Convert.ToInt32(BHBIN, 16), 2); Console.WriteLine("BH:" + binaryText4);
+                string CLBIN = wpisanaWartosc5; string binaryText5 = Convert.ToString(Convert.ToInt32(CLBIN, 16), 2); Console.WriteLine("CL:" + binaryText5);
+                string CHBIN = wpisanaWartosc6; string binaryText6 = Convert.ToString(Convert.ToInt32(CHBIN, 16), 2); Console.WriteLine("CH:" + binaryText6);
+                string DLBIN = wpisanaWartosc7; string binaryText7 = Convert.ToString(Convert.ToInt32(DLBIN, 16), 2); Console.WriteLine("DL:" + binaryText7);
+                string DHBIN = wpisanaWartosc8; string binaryText8 = Convert.ToString(Convert.ToInt32(DHBIN, 16), 2); Console.WriteLine("DH:" + binaryText8);
+                Console.ReadLine(); Console.Clear();
+                static string Negacja(string witaj)
+                {string wynik = ""; foreach (char sign in witaj)
+                    {if (sign == '1')
+                        { wynik += "0"; }
+                        else { wynik += "1"; }
+                    }return wynik;}
+                Console.WriteLine("Negacja w systemie binarnym:"); Console.WriteLine(Negacja("AL" + binaryText1));
+                Console.WriteLine(Negacja("AH" + binaryText2)); Console.WriteLine(Negacja("BL" + binaryText3));
+                Console.WriteLine(Negacja("BH" + binaryText4)); Console.WriteLine(Negacja("CL" + binaryText5));
+                Console.WriteLine(Negacja("CH" + binaryText6)); Console.WriteLine(Negacja("DL" + binaryText7));
+                Console.WriteLine(Negacja("DH" + binaryText8)); Console.ReadLine(); Console.Clear();
+                var strAL = wpisanaWartosc1;
+                string liczbastringAL = string.Empty;
+                foreach (var c in strAL)
+                {if ((c >= '0' && c <= '9') || (char.ToUpperInvariant(c) >= 'A' && char.ToUpperInvariant(c) <= 'F') || c == ' ')
+                    { liczbastringAL = string.Concat(liczbastringAL, c.ToString()); }
+                    else
+                    { break; }
+                }
+                if (int.TryParse(liczbastringAL, System.Globalization.NumberStyles.HexNumber, null, out int iAL))
+                {Console.WriteLine($"Twoja wpisana liczba AL:{strAL}"); Console.WriteLine($"Twoja otrzymana liczba: {iAL}");
+                Console.WriteLine("Twoj nowy wynik AL po dodaniu to: " + (iAL + 1)); Console.WriteLine("Twoj nowy wynik AL po odejmowaniu to: " + (iAL - 1));}
+                var strAH = wpisanaWartosc2;
+                string liczbastringAH = string.Empty;
+                foreach (var c in strAH)
+                {if ((c >= '0' && c <= '9') || (char.ToUpperInvariant(c) >= 'A' && char.ToUpperInvariant(c) <= 'F') || c == ' ')
+                    { liczbastringAH = string.Concat(liczbastringAH, c.ToString()); }
+                    else
+                    { break; }
+                }
+                if (int.TryParse(liczbastringAH, System.Globalization.NumberStyles.HexNumber, null, out int iAH))
+                {Console.WriteLine($"Twoja wpisana liczba AH:{strAH}"); Console.WriteLine($"Twoja otrzymana liczba: {iAH}");
+                Console.WriteLine("Twoj nowy wynik AH po dodawaniu to : " + (iAH + 1)); Console.WriteLine("Twoj nowy wynik AH po odejmowaniu to: " + (iAH - 1));}
+                var strBL = wpisanaWartosc3;
+                string liczbastringBL = string.Empty;
+                foreach (var c in strBL)
+                {if ((c >= '0' && c <= '9') || (char.ToUpperInvariant(c) >= 'A' && char.ToUpperInvariant(c) <= 'F') || c == ' ')
+                    { liczbastringBL = string.Concat(liczbastringBL, c.ToString()); }
+                    else
+                    { break; }
+                }
+                if (int.TryParse(liczbastringBL, System.Globalization.NumberStyles.HexNumber, null, out int iBL))
+                {Console.WriteLine($"Twoja wpisana liczba BL:{strBL}"); Console.WriteLine($"Twoja otrzymana liczba: {iBL}");
+                Console.WriteLine("Twoj nowy wynik BL po dodawaniu to : " + (iBL + 1)); Console.WriteLine("Twoj nowy wynik BL po odejmowaniu to: " + (iBL - 1));}
+                var strBH = wpisanaWartosc4;
+                string liczbastringBH = string.Empty;
+                foreach (var c in strBH)
+                {if ((c >= '0' && c <= '9') || (char.ToUpperInvariant(c) >= 'A' && char.ToUpperInvariant(c) <= 'F') || c == ' ')
+                    { liczbastringBH = string.Concat(liczbastringBH, c.ToString()); }
+                    else
+                    { break; }
+                }
+                if (int.TryParse(liczbastringBH, System.Globalization.NumberStyles.HexNumber, null, out int iBH))
+                {Console.WriteLine($"Twoja wpisana liczba AH:{strBH}"); Console.WriteLine($"Twoja otrzymana liczba: {iBH}");
+                Console.WriteLine("Twoj nowy wynik BH po dodawaniu to : " + (iBH + 1)); Console.WriteLine("Twoj nowy wynik BH po odejmowaniu to: " + (iBH - 1));}
+                var strCL = wpisanaWartosc5;
+                string liczbastringCL = string.Empty;
+                foreach (var c in strCL)
+                {if ((c >= '0' && c <= '9') || (char.ToUpperInvariant(c) >= 'A' && char.ToUpperInvariant(c) <= 'F') || c == ' ')
+                    { liczbastringCL = string.Concat(liczbastringCL, c.ToString()); }
+                    else
+                    { break; }
+                }
+                if (int.TryParse(liczbastringCL, System.Globalization.NumberStyles.HexNumber, null, out int iCL))
+                {Console.WriteLine($"Twoja wpisana liczba CL:{strCL}"); Console.WriteLine($"Twoja otrzymana liczba: {iCL}");
+                Console.WriteLine("Twoj nowy wynik CL po dodawaniu to : " + (iCL + 1)); Console.WriteLine("Twoj nowy wynik CL po odejmowaniu to: " + (iCL - 1));}
+                var strCH = wpisanaWartosc6;
+                string liczbastringCH = string.Empty;
+                foreach (var c in strCH)
+                {if ((c >= '0' && c <= '9') || (char.ToUpperInvariant(c) >= 'A' && char.ToUpperInvariant(c) <= 'F') || c == ' ')
+                    { liczbastringCH = string.Concat(liczbastringCH, c.ToString()); }
+                    else
+                    { break; }
+                }
+                if (int.TryParse(liczbastringCH, System.Globalization.NumberStyles.HexNumber, null, out int iCH))
+                {Console.WriteLine($"Twoja wpisana liczba CH:{strCH}"); Console.WriteLine($"Twoja otrzymana liczba: {iCH}");
+                Console.WriteLine("Twoj nowy wynik CH po dodawaniu to : " + (iCH + 1)); Console.WriteLine("Twoj nowy wynik CH po odejmowaniu to: " + (iCH - 1));}
+                var strDL = wpisanaWartosc7;
+                string liczbastringDL = string.Empty;
+                foreach (var c in strDL)
+                {if ((c >= '0' && c <= '9') || (char.ToUpperInvariant(c) >= 'A' && char.ToUpperInvariant(c) <= 'F') || c == ' ')
+                    { liczbastringDL = string.Concat(liczbastringDL, c.ToString()); }
+                    else
+                    { break; }
+                }
+                if (int.TryParse(liczbastringDL, System.Globalization.NumberStyles.HexNumber, null, out int iDL))
+                { Console.WriteLine($"Twoja wpisana liczba DL:{strDL}"); Console.WriteLine($"Twoja otrzymana liczba: {iDL}"); }
+                Console.WriteLine("Twoj nowy wynik DL po dodawaniu to : " + (iDL + 1));Console.WriteLine("Twoj nowy wynik DL po odejmowaniu to: " + (iDL - 1));
+                var strDH = wpisanaWartosc8;
+                string liczbastringDH = string.Empty;
+                foreach (var c in strDH)
+                {if ((c >= '0' && c <= '9') || (char.ToUpperInvariant(c) >= 'A' && char.ToUpperInvariant(c) <= 'F') || c == ' ')
+                    { liczbastringDH = string.Concat(liczbastringDH, c.ToString()); }
+                    else
+                    { break; }
+                }
+                if (int.TryParse(liczbastringDH, System.Globalization.NumberStyles.HexNumber, null, out int iDH))
+                { Console.WriteLine($"Twoja wpisana liczba DH:{strDH}"); Console.WriteLine($"Twoja otrzymana liczba: {iDH}"); }
+                Console.WriteLine("Twoj nowy wynik DH po dodawaniu to : " + (iDH + 1));Console.WriteLine("Twoj nowy wynik DH po odejmowaniu to: " + (iDH - 1));
+                Console.ReadLine(); Console.Clear();
+            }
+        }
+    }

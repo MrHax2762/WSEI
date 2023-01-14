@@ -1,0 +1,29 @@
+C:\NET\Apache\Upload\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\NET\Apache\Upload\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\NET\Apache\Upload\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\NET\Apache\Upload\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\NET\Apache\Upload\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\_DYDAKTYKA\Paw\_NET\PROJEKTY Visual Studio\SQL Server - automatyczne generowanie zapytan SQL\WebApplication1\bin\WebApplication1.dll
+C:\_DYDAKTYKA\Paw\_NET\PROJEKTY Visual Studio\SQL Server - automatyczne generowanie zapytan SQL\WebApplication1\bin\WebApplication1.pdb
+C:\_DYDAKTYKA\Paw\_NET\PROJEKTY Visual Studio\SQL Server - automatyczne generowanie zapytan SQL\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\_DYDAKTYKA\Paw\_NET\PROJEKTY Visual Studio\SQL Server - automatyczne generowanie zapytan SQL\WebApplication1\obj\Debug\WebApplication1.dll
+C:\_DYDAKTYKA\Paw\_NET\PROJEKTY Visual Studio\SQL Server - automatyczne generowanie zapytan SQL\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - automatyczne generowanie zapytan SQL\WebApplication1\bin\WebApplication1.dll
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - automatyczne generowanie zapytan SQL\WebApplication1\bin\WebApplication1.pdb
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - automatyczne generowanie zapytan SQL\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - automatyczne generowanie zapytan SQL\WebApplication1\obj\Debug\WebApplication1.dll
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - automatyczne generowanie zapytan SQL\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - Linq\WebApplication1\bin\WebApplication1.dll
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - Linq\WebApplication1\bin\WebApplication1.pdb
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - Linq\WebApplication1\obj\Debug\WebApplication1.dll
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - Linq\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - Linq\WebApplication1\bin\WebApplication1.dll.config
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - Linq\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Rozwiazania zaawansowane\SQL Server - Linq\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\Nowy folder\Linq\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Rafał\Desktop\Nowy folder\Linq\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rafał\Desktop\Nowy folder\Linq\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rafał\Desktop\Nowy folder\Linq\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Rafał\Desktop\Nowy folder\Linq\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\Nowy folder\Linq\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rafał\Desktop\Nowy folder\Linq\WebApplication1\obj\Debug\WebApplication1.pdb

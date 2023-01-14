@@ -1,0 +1,8 @@
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#16\obj\Debug\Pierwsza.exe
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#16\obj\Debug\Pierwsza.pdb
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#16\bin\Debug\Pierwsza.exe
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#16\bin\Debug\Pierwsza.pdb
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#16\obj\Debug\ResolveAssemblyReference.cache
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#16\obj\Debug\Pierwsza.Form1.resources
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#16\obj\Debug\Pierwsza.Properties.Resources.resources
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#16\obj\Debug\Pierwsza.csproj.GenerateResource.Cache

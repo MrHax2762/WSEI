@@ -1,0 +1,9 @@
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\bin\Release\Pierwsza.exe
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\bin\Release\Pierwsza.pdb
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\obj\Release\ResolveAssemblyReference.cache
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\obj\Release\Pierwsza.Form1.resources
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\obj\Release\Pierwsza.Properties.Resources.resources
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\obj\Release\ResGen.read.1.tlog
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\obj\Release\ResGen.write.1.tlog
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\obj\Release\Pierwsza.exe
+C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\obj\Release\Pierwsza.pdb

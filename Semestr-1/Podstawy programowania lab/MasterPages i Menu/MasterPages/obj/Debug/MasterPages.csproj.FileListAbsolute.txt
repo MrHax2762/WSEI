@@ -1,0 +1,19 @@
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages\MasterPages\bin\MasterPages.dll
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages\MasterPages\bin\MasterPages.pdb
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages\MasterPages\obj\Debug\ResolveAssemblyReference.cache
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages\MasterPages\obj\Debug\MasterPages.dll
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages\MasterPages\obj\Debug\MasterPages.pdb
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages i Menu\MasterPages\bin\MasterPages.dll
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages i Menu\MasterPages\bin\MasterPages.pdb
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages i Menu\MasterPages\obj\Debug\MasterPages.dll
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages i Menu\MasterPages\obj\Debug\MasterPages.pdb
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages i Menu\MasterPages\bin\MasterPages.dll.config
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages i Menu\MasterPages\obj\Debug\MasterPages.csprojResolveAssemblyReference.cache
+C:\_DYDAKTYKA\Paw\_NET\Web Controls - Programowanie kontrolek\MasterPages i Menu\MasterPages\obj\Debug\MasterPages.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\MasterPages i Menu\MasterPages\bin\MasterPages.dll.config
+C:\Users\Rafał\Desktop\MasterPages i Menu\MasterPages\bin\MasterPages.dll
+C:\Users\Rafał\Desktop\MasterPages i Menu\MasterPages\bin\MasterPages.pdb
+C:\Users\Rafał\Desktop\MasterPages i Menu\MasterPages\obj\Debug\MasterPages.csproj.AssemblyReference.cache
+C:\Users\Rafał\Desktop\MasterPages i Menu\MasterPages\obj\Debug\MasterPages.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\MasterPages i Menu\MasterPages\obj\Debug\MasterPages.dll
+C:\Users\Rafał\Desktop\MasterPages i Menu\MasterPages\obj\Debug\MasterPages.pdb

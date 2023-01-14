@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pierwsza">
+</Property><Property Name="Solution File" Value="C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Pierwsza.sln">
+</Property><Property Name="User Options File" Value="C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Pierwsza.suo">
+</Property><Property Name="Date" Value="18 listopada 2011">
+</Property><Property Name="Time" Value="15:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Pierwsza.sln" Description="File successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Pierwsza.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Pierwsza.suo" Description="File successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Pierwsza.suo">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Pierwsza.csproj" Description="Project file successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Pierwsza.csproj">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Form1.cs" Description="File successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Form1.Designer.cs" Description="File successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Program.cs" Description="File successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Properties\Settings.settings" Description="File successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Form1.resx" Description="File successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Properties\Resources.resx" Description="File successfully backed up as C:\_DYDAKTYKA\Paw\_NET\C# Windows Forms\#6\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Pierwsza" Source="Pierwsza.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Pierwsza.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Pierwsza" Source="Pierwsza.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pierwsza.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Pierwsza.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pierwsza" Source="Pierwsza.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

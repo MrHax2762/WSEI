@@ -1,0 +1,32 @@
+//(C) Michal Turek
+using System;
+using System.Net;
+using System.Net.Sockets;
+using System.Text;
+
+namespace Client {
+	
+	class Program {
+		static void Main(string[] args)
+		{
+			try {
+				
+				// NaN
+				double nan1 = Double.NaN;
+				Console.WriteLine("NaN: " + nan1);
+				double zero = 0.0;
+				Console.WriteLine("NaN: " + 0/zero);
+				Console.WriteLine("Sprawdzenie NaN: " + Double.NaN.Equals(0/zero));
+				Console.WriteLine("Sprawdzenie NaN: " + Double.IsNaN(0/zero));
+				
+				String s1 = null;
+				Console.WriteLine("Null " + s1);
+				String s2 = default(String);
+				Console.WriteLine("Default " + s2 + ".");
+			
+			}
+			catch (Exception e) {
+			Console.In.ReadLine();
+		}
+	}
+}

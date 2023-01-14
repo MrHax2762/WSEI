@@ -1,0 +1,53 @@
+Lekcja 1:
+Zmienne:Całkowite, przecinkowe, tekstowe
+
+Całkowite:
+sbyte
+byte
+short
+ushort
+int
+uint
+long
+ulong
+
+Zmienno przecinkowe:
+float
+double
+decimal
+
+Tekstowe:
+string
+char
+bool
+
+Tekstowe i liczbowe
+var
+
+Deklarowanie stałej:
+const + przykładowo float
+
+Lekcja 2:
+|| OR Lub
+&& AND I
+!  NOT negacja
+
+Liczenie matematyczne:
+Math.Pow(liczba, liczba) 	(potęgi)
+Math.Sqrt (liczba)		(pierwiastek)
+Math.Abs (liczba)	(wartosc bezwzgledna)
+
+Lekcja 3:
+if
+else if
+else
+
+Lekcja 4:
+while
+for
+do while
+
+Lekcja 5:
+
+
+
